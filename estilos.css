@@ -1,9 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #e0f2f8; /* Celeste claro */
-    color: #333; /* Texto blanco oscuro */
+    background-image: url('https://i.pinimg.com/564x/69/4e/42/694e4233041dbcbedc464acded2ae8d8.jpg'); /* Enlace de la imagen */
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff; /* Cambiado a blanco */
     margin: 0;
     padding: 0;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5); /* Sombra para mejorar la legibilidad */
 }
 
 .container {
