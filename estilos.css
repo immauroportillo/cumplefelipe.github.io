@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f2f8; /* Celeste claro */
+    color: #333; /* Texto blanco oscuro */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 16px;
+    margin-top: 20px;
+}
